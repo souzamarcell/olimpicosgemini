@@ -21,7 +21,21 @@
 
  - https://github.com
 
-   olimpicosgemini
+    To create github: olimpicosgemini
 
-   git init
+    git init
+    git branch -m main
+
+    SSH
+    git remote add origin git@github.com:souzamarcell/olimpicosgemini.git
+    Verificar: git remote -v
+
+    git add .
+    git commit -m "party 1.0.4"
+    git push -u origin main
+    
+    git push -u origin main --force
+
+ - https://vercel.com/marcellramosgmailcoms-projects
+
 
